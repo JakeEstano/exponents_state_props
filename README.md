@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-Screen Record: 
+Screen Record: https://www.youtube.com/shorts/ZEAD8QWX_K0
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
